@@ -1,9 +1,5 @@
-# ![HexSoftware Logo](img/logo1.png) HexSoftware – Personal Book Library Website
+#  HexSoftware – Personal Book Library Website
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/HexSoftware?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/HexSoftware?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/HexSoftware)
-![License](https://img.shields.io/github/license/yourusername/HexSoftware)
 
 **HexSoftware** is a personal book library website that allows users to organize, manage, and showcase their books in an interactive and user-friendly interface. Perfect for book lovers who want to keep track of their personal collection digitally.
 
