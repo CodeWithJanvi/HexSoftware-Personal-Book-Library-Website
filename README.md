@@ -39,4 +39,4 @@ Live Demo: [https://hex-software-personal-book-library.vercel.app/]
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/HexSoftware.git
+git clone https://github.com/CodeWithJanvi/HexSoftware-Personal-Book-Library-Website.git
